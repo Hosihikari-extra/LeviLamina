@@ -1,7 +1,7 @@
 #include "export.h"
 
 #include <ll/api/memory/Hook.h>
-#include <ll/api/service/Service.h>
+#include <ll/api/service/ServiceManager.h>
 #include <ll/api/utils/StringUtils.h>
 
 AutoGenerate HosihikariExport(
